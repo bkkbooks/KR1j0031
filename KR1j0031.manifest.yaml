@@ -23,12 +23,12 @@ assets:
   - {seq: 1, filename: KR1j0031_001.yaml, hash: 'sha256:9d68ff55ae81208f92e17b0b9b4b976899f8184a0c5a3615b7c8f54d5235b2b9'}
   - {seq: 2, filename: KR1j0031_002.yaml, hash: 'sha256:c5954f6bc8fc7d76b4d324fcd477cc2e6abdb069e4d7dd3c9ec078da494a6a57'}
   - {seq: 3, filename: KR1j0031_003.yaml, hash: 'sha256:3e10975787c30c6080deb2b285046d0be27a307129002329263cdefe0744f2f5'}
-  - {seq: 4, filename: KR1j0031_004.yaml, hash: 'sha256:06bd2eabd9591da9a9d15ecc877b902d902fe37fd973fbe5e2328fb7bfd26edb'}
+  - {seq: 4, filename: KR1j0031_004.yaml, hash: 'sha256:5ee7dc10b0f7adebea74022df2950b80f4a9ad6a24e386a71b3e77a8996361fb'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR1j0031_001.markers.yaml, hash: 'sha256:c06d9929b79f846e3c9b4a84494fd7617f97a4dd184659d55584b8185ee26394'}
+  - {seq: 1, role: markers, filename: assets/KR1j0031_001.markers.yaml, hash: 'sha256:fb44361ad36eeb73d8128f6b30e4aa78305d2ad2f1cb9bda91c1f7b4c10e9e2a'}
   - {seq: 2, role: markers, filename: assets/KR1j0031_002.markers.yaml, hash: 'sha256:9ce0763f84f0f66b43a723384fc7e076bdf1eabe549cc64ed69e3cc6a7df6a01'}
   - {seq: 3, role: markers, filename: assets/KR1j0031_003.markers.yaml, hash: 'sha256:5f682eb3bc42c87d44e8fbd527d791f38290611f24bc7aa0edf80a12750988dc'}
-  - {seq: 4, role: markers, filename: assets/KR1j0031_004.markers.yaml, hash: 'sha256:deb16e0fb64d34551898f49296cbb944d0e326deccc031c5882f0cac93b3b9b7'}
+  - {seq: 4, role: markers, filename: assets/KR1j0031_004.markers.yaml, hash: 'sha256:c5413f4e14d4563cf5b9b3abea8b8211267d667d76053fadd8b1a6da30aa01be'}
 table_of_contents:
 - ref:
     seq: 1
@@ -65,12 +65,12 @@ table_of_contents:
     marker_id: KR1j0031_SBCK_004-1a
     span:
     - body
-    - 0
-    - 72
+    - 1078
+    - 1150
   label: juan 004
   type: section
   level: 1
-hash: sha256:6a1ddb8b29cef76b84e55b174bf866f39eae81730a552ecf9e7287c17b09e009
+hash: sha256:ef734a8b3bb6a1cd57f34e0f47ae14e482b56656cda5bbac47ecfcfbe3a54389
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
